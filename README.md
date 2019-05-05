@@ -12,5 +12,6 @@ As limitações do `md` são bem esepcíficas porém ainda não fazem com que a 
 
 - [Como fazer download do macOS](DownloadmacOS.md)
 - [Ativando Wifi com kext Wifi Injector](ComoAtivarAtheros.md)
+- [Ferramentas e Downloads](FerramentaseDownloads.md)
 
 (Em breve mais.)
