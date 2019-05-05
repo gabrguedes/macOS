@@ -11,5 +11,6 @@ As limitações do `md` são bem esepcíficas porém ainda não fazem com que a 
 # índice
 
 - [Como fazer download do macOS](DownloadmacOS.md)
+- [Ativando Wifi com kext Wifi Injector](ComoAtivarAtheros.md)
 
 (Em breve mais.)
