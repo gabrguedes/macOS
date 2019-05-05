@@ -12,7 +12,7 @@ Para usar o Mac OS X é necessário a instalação de um bootloader, que fará s
 
 **[Chameleon](http://www.insanelymac.com/forum/files/file/59-chameleon-23-svn/)** - É o bootloader mais amigavél aos usuários, seja pela sua simplicidade ou pela facilidade de configuração. Caso encontre algum problema, será extremamente mais fácil obter suporte em diversos fóruns, por ser amplamente utilizado.
 
-= **OBS**: Indicado para placas-mãe antigas ou que não possuem suporte a UEFI.
+- **OBS**: Indicado para placas-mãe antigas ou que não possuem suporte a UEFI.
 
 [**Clover**](http://sourceforge.net/projects/cloverefiboot/) - Possui inúmeras funcionalidades e é de longe o bootloader mais rápido e seguro se comparado com os demais, além de poder ser instalado em modo UEFI ou Legacy. Sua única desvantagem seria as suas complexas configurações, que pode assustar muitos usuários acostumados com a simplicidade do Chameleon/Chimera.
 
