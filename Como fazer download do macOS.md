@@ -88,4 +88,4 @@ Formatação em *Markdown* por [gabrguedes](https://github.com/gabrguedes).
 
 ---
 
-*Você pode solicitar uma nova alteração neste arquivo fazendo uma request. Inclua, na request, o link para o arquivo original apontando o que há de diferente entre o arquivo atual e o seu.*
+*Você pode solicitar uma nova alteração neste arquivo fazendo uma `pull request`. Inclua, na `pull request`, o link para o arquivo original no Google Drive apontando o que há de diferente entre o arquivo atual e o seu.*
