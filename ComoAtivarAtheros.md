@@ -16,7 +16,7 @@ AR9287|BCM43225
 
 Tudo que você precisa fazer é instalar kext ‘**Wifi Injector**’ que pode ser encontrada em aplicativos AIO como **Hackintosh Vietnam Tool** ou **MacPois0n Yosemite**:
 
-- [Ferramentas e Downloads](https://docs.google.com/document/d/1hfviixDupf9K7QdvvIbtwwbc9vVQAg9fyiON3mB894g/edit?usp=sharing)
+- [Ferramentas e Downloads](FerramentaseDownloads.md)
 
 ![Hackintosh Vietnam Tool](/media/WifiInjector.png)
 
